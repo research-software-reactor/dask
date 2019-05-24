@@ -14,4 +14,8 @@ The [recommend route](http://docs.dask.org/en/latest/setup/cloud.html) for runni
 ### Learning prerequisites
 * [Administer containers in Azure](https://docs.microsoft.com/en-us/learn/paths/administer-containers-in-azure/)
 
-### Update from sprint a DASK deployment for Cycle cloud was created see [Cloud Cloud Dask Deployment](https://github.com/research-software-reactor/cyclecloud/tree/master/CycleCloudProjects)
+### Update from sprint a DASK deployment for Cycle cloud 
+
+The following resource was created see [Cloud Cloud Dask Deployment](https://github.com/research-software-reactor/cyclecloud/tree/master/CycleCloudProjects)
+
+Please follow https://github.com/research-software-reactor/cyclecloud/blob/master/QuickStarts/SettingUpCycleCloud.md to setup Azure Cycle Cloud
